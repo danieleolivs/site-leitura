@@ -1,0 +1,45 @@
+.details{
+    position:fixed;
+    background: var(--tarefas);
+    border-radius: 5rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow:#000 1px -1px, #000 -1px 1px, #000 1px 1px, #000 -1px -1px;
+}
+
+.content{
+   
+    background:var(--fundo-quadro);
+    border-radius:2rem;
+    box-shadow:#000 1px -1px, #000 -1px 1px, #000 1px 1px, #000 -1px -1px;
+}
+
+h1{
+    font-family: 'Abril Fatface', cursive;
+    color: var(--title);
+    text-shadow:#000 1px -1px, #000 -1px 1px, #000 1px 1px, #000 -1px -1px;
+    z-index: 1;
+    position:fixed;
+    text-align: center;
+    margin-left: 26%;
+    
+
+}
+
+.credits{
+    font-family: 'Abril Fatface', cursive;
+    color: var(--tarefas);
+    position: fixed;
+    width: 100%;
+    
+}
+
+#header{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    
+}
+

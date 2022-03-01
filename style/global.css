@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding:0;
+    border:none;
+    text-decoration:none;
+    box-sizing:border-box;
+}
+
+html{
+    --background: #514053;
+    --fundo-quadro: #F7F7F7;
+    --tarefas: #C4C4C4;
+    --title: #94627C;
+    --details: #94627C;
+
+    font-size:62.5%;
+}
+
+body{
+    height:100vh;
+    display:flex;
+    background: var(--background);
+    
+}

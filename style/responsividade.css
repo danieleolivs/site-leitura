@@ -1,0 +1,429 @@
+@media (min-width: 200px){
+    .details{
+        height: 50rem;
+        width: 25rem;
+    }
+    
+    .content{
+        height: 50rem;
+        width: 25rem;
+        margin-top: 1rem;
+    }
+
+    h1{
+        margin-top: 5.5rem;
+        font-size: 2.5rem;
+        /* margin: auto; */
+        margin-left: 4rem;
+    }
+
+    img{
+        width: 2rem;
+        height: 2rem;
+    }
+
+    #arrow{
+        margin-left: 3rem;
+        margin-top: 1rem
+    }
+    
+    #menu{
+        margin-right: 3rem;
+        margin-top:1rem;
+    }
+    
+    #save{
+        margin-right:1rem;
+    }
+
+    .credits{
+        left: 30%;
+        bottom: 1rem;
+    }
+    
+    
+}
+
+@media (min-width: 300px){
+    .details{
+        height: 53rem;
+        width: 30rem;
+    }
+    
+    .content{
+        height: 50rem;
+        width: 30rem;
+        margin-top: 1rem;
+    }
+
+    h1{
+        margin-top: 4.3rem;
+        font-size: 3rem;
+        /* margin: auto; */
+        margin-left: 7rem;
+    }
+
+    img{
+        width: 2rem;
+        height: 2rem;
+    }
+
+    #arrow{
+        margin-left: 3rem;
+        margin-top: 1rem
+    }
+    
+    #menu{
+        margin-right: 3rem;
+        margin-top:1rem;
+    }
+    
+    #save{
+        margin-right:1rem;
+    }
+
+    .credits{
+        left: 35%;
+        bottom: 2rem;
+    }
+    
+    
+}
+
+@media (min-width: 350px){
+    .details{
+        height: 70rem;
+        width: 35rem;
+    }
+    
+    .content{
+        height: 70rem;
+        width: 35rem;
+        margin-top: 1rem;
+    }
+
+    h1{
+        margin-top: 4.3rem;
+        font-size: 3rem;
+        /* margin: auto; */
+        margin-left: 7rem;
+    }
+
+    .credits{
+        left: 35%;
+        bottom: 1rem;
+    }
+    
+    
+}
+
+@media (min-width: 360px){
+    .details{
+        height: 60rem;
+        width: 30rem;
+    }
+    
+    .content{
+        height: 60rem;
+        width: 30rem;
+        margin-top: 1rem;
+    }
+
+    h1{
+        margin-top: 4.3rem;
+        font-size: 3rem;
+        /* margin: auto; */
+        margin-left: 6rem;
+    }
+
+    .credits{
+        left: 35%;
+        bottom: 1rem;
+    }
+    
+    
+}
+
+@media (min-width: 370px){
+    .details{
+        height: 53rem;
+        width: 30rem;
+    }
+    
+    .content{
+        height: 50rem;
+        width: 30rem;
+        margin-top: 1rem;
+    }
+
+    h1{
+        margin-top: 4.3rem;
+        font-size: 3rem;
+        /* margin: auto; */
+        margin-left: 7rem;
+    }
+
+    img{
+        width: 2rem;
+        height: 2rem;
+    }
+
+    .credits{
+        left: 35%;
+        bottom: 2rem;
+    }
+    
+    
+}
+
+@media (min-width: 390px){
+    .details{
+        height: 70rem;
+        width: 35rem;
+    }
+    
+    .content{
+        height: 70rem;
+        width: 35rem;
+        margin-top: 1rem;
+    }
+
+    h1{
+        margin-top: 4.3rem;
+        font-size: 3rem;
+        /* margin: auto; */
+        margin-left: 7rem;
+    }
+
+    img{
+        width: 2rem;
+        height: 2rem;
+    }
+
+    .credits{
+        left: 35%;
+        bottom: 1rem;
+    }
+    
+    
+}
+
+@media (min-width: 400px){
+    
+    .details{
+        height: 80rem;
+        width: 35rem;
+    }
+    
+    .content{
+        height: 77rem;
+        width: 35rem;
+        margin-top: 1rem;
+    }
+
+    h1{
+        margin-top: 2rem;
+        font-size: 3rem;
+        /* margin: auto; */
+        margin-left: 8rem;
+    }
+
+    .credits{
+        left: 35%;
+        bottom: 1rem;
+    } 
+}
+
+@media (min-width: 500px){
+    
+    .details{
+        height: 60rem;
+        width: 50rem;
+    }
+    
+    .content{
+        height: 60rem;
+        width: 50rem;
+        margin-top: 1rem;
+    }
+
+    h1{
+        margin-top: 1rem;
+        font-size: 5rem;
+        /* margin: auto; */
+        margin-left: 7rem;
+    }
+
+    .credits{
+        left: 40%;
+        bottom: .5rem;
+    }
+    
+}
+
+
+@media (min-width: 700px){
+    
+    .details{
+        height: 90rem;
+        width: 70rem;
+    }
+    
+    .content{
+        height: 90rem;
+        width: 70rem;
+        margin-top: 1rem;
+    }
+
+    h1{
+        margin-top: 1rem;
+        font-size: 6rem;
+        /* margin: auto; */
+        margin-left: 13rem;
+    }
+
+    .credits{
+        left: 40%;
+        bottom: .5rem;
+    }
+    
+}
+
+@media (min-width: 800px){
+    
+    .details{
+        height: 100rem;
+        width: 75rem;
+    }
+    
+    .content{
+        height: 100rem;
+        width: 75rem;
+        margin-top: 1rem;
+    }
+
+    h1{
+        margin-top: 2rem;
+        font-size: 7rem;
+        /* margin: auto; */
+        margin-left: 13rem;
+    }
+
+    .credits{
+        left: 45%;
+        bottom: 1.5rem;
+    }
+    
+}
+
+
+
+@media (min-width: 900px){
+    
+    .details{
+        height: 120rem;
+        width: 80rem;
+    }
+    
+    .content{
+        height: 120rem;
+        width: 80rem;
+        margin-top: 1rem;
+    }
+
+    h1{
+        margin-top: 2rem;
+        font-size: 7rem;
+        /* margin: auto; */
+        margin-left: 17rem;
+    }
+
+    .credits{
+        left: 45%;
+        bottom: 1.5rem;
+    }
+    
+}
+
+@media (min-width: 1000px){
+    .details{
+        height: 53rem;
+        width:115rem;
+    }
+    
+    .content{
+        height: 50rem;
+        width:115rem;
+        margin-top:1rem;
+    }
+
+    h1{
+        margin-top:-1rem;
+        font-size:8rem;
+        margin-left: 35rem;
+
+    }
+
+    #arrow{
+        margin-left: 5rem;
+        margin-top: 1rem
+    }
+    
+    #menu{
+        margin-right: 5rem;
+        margin-top:1rem;
+        margin-left:2rem;
+    }
+    
+    #save{
+        margin-right:2rem;
+    }
+
+    .credits{
+        left: 45%;
+        bottom: 1.2rem;
+    }
+    
+}
+
+@media (min-width: 1380px){
+    .details{
+        height: 65rem;
+        width:115rem;
+    }
+    
+    .content{
+        height: 65rem;
+        width:115rem;
+        margin-top:1rem;
+    }
+
+    h1{
+        margin-top: 1rem;
+        font-size: 8rem;
+        margin-left: 30rem;
+
+    }
+
+    #arrow{
+        margin-left: 5rem;
+        margin-top: 1rem
+    }
+    
+    #menu{
+        margin-right: 5rem;
+        margin-top:1rem;
+        margin-left:2rem;
+    }
+    
+    #save{
+        margin-right:2rem;
+    }
+
+    .credits{
+        left: 45%;
+        bottom: 1.2rem;
+    }
+    
+}
+
