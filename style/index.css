@@ -1,12 +1,13 @@
 .details{
-    position:fixed;
     background: var(--tarefas);
     border-radius: 5rem;
-    position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     box-shadow:#000 1px -1px, #000 -1px 1px, #000 1px 1px, #000 -1px -1px;
+    height: 53rem;
+    width:115rem;
+    position:absolute
 }
 
 .content{
@@ -14,6 +15,15 @@
     background:var(--fundo-quadro);
     border-radius:2rem;
     box-shadow:#000 1px -1px, #000 -1px 1px, #000 1px 1px, #000 -1px -1px;
+    height: 50rem;
+        width:115rem;
+        margin-top:1rem;
+}
+
+.title{
+    display:flex;
+    align-items:center;
+    justify-content:center
 }
 
 h1{
@@ -21,10 +31,8 @@ h1{
     color: var(--title);
     text-shadow:#000 1px -1px, #000 -1px 1px, #000 1px 1px, #000 -1px -1px;
     z-index: 1;
-    position:fixed;
     text-align: center;
-    margin-left: 26%;
-    
+    position:absolute
 
 }
 
@@ -33,6 +41,8 @@ h1{
     color: var(--tarefas);
     position: fixed;
     width: 100%;
+    left: 45%;
+    bottom: 1.2rem;
     
 }
 
@@ -43,3 +53,17 @@ h1{
     
 }
 
+#arrow{
+    margin-left: 5rem;
+    margin-top: 1rem
+}
+
+#menu{
+    margin-right: 5rem;
+    margin-top:1rem;
+    margin-left:2rem;
+}
+
+#save{
+    margin-right:2rem;
+}
