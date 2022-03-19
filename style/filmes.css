@@ -1,0 +1,33 @@
+.imagens{
+    z-index:10;
+    position:absolute;
+    left:15%;
+    top:55%;
+    transform:translate(-15%, -55%);
+    
+}
+
+#box-suspiria{
+    width:32.1rem;
+    height:28rem;
+    background:#C4C4C4;
+    box-shadow:#000 1px -1px, #000 -1px 1px, #000 1px 1px, #000 -1px -1px;
+}
+
+#box-suspiria a{
+    color:#3E3958;
+    font-family: 'Modak', cursive;
+    font-size:3rem;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-top:-0.2rem;
+}
+
+#box-suspiria h3{
+    font-family:Arial,sans-serif;
+    font-family: 'Zilla Slab', serif;
+    font-size:1.5rem;
+    margin-left:1rem;
+    color:rgb(31, 30, 30)
+}

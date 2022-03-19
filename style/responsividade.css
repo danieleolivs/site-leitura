@@ -371,3 +371,119 @@
     
 }
 
+@media(min-width:200px){
+    #title{
+        font-size:4rem;
+        margin-top:3.5rem
+    }
+
+    #box{
+        margin-left:1.5rem;
+        margin-right:1.5rem
+    }
+
+    #resumo img{
+        width:60%;
+        height: 13rem;
+    }
+
+    
+    #suspiria img{
+        width:100%;
+        height:8rem
+    }
+
+    #box-suspiria{
+        width:17.5rem;
+        height:18rem;
+    }
+
+    #box-suspiria a{
+        font-size:2rem;
+    }
+
+    .imagens{
+        left:50%;
+        top:55%;
+        transform:translate(-50%, -55%);
+        
+    }
+}
+
+@media(min-width:600px){
+    #suspiria img{
+        width:100%;
+        height:17rem
+    }
+
+    #box-suspiria{
+        width:37rem;
+        height:23rem;
+    }
+
+    #box-suspiria a{
+        font-size:4rem;
+    }
+
+    .imagens{
+        left:50%;
+        top:55%;
+        transform:translate(-50%, -55%);
+        
+    }
+
+    #box-suspiria h3{
+        font-family:Arial,sans-serif;
+        font-family: 'Zilla Slab', serif;
+        font-size:1.5rem;
+        margin-left:1rem;
+        color:rgb(31, 30, 30)
+    }
+
+    #box-suspiria h3{
+        font-size:2.5rem;
+    }
+}
+
+@media(min-width:1000px){
+    #title{
+        font-size:8rem;
+        margin-top:3.5rem
+    }
+
+    #box{
+        margin-left:10rem;
+        margin-right:10rem
+    }
+
+    #resumo img{
+        width:50%;
+        height: 25rem;
+    
+    }
+    
+    #suspiria img{
+        width:100%;
+        height:14.65rem
+    }
+
+    #box-suspiria{
+        width:32.1rem;
+        height:28rem;
+    }
+
+    #box-suspiria a{
+        font-size:3rem;
+    }
+
+    .imagens{
+        left:15%;
+        top:55%;
+        transform:translate(-15%, -55%);
+        
+    }
+
+    #box-suspiria h3{
+        font-size:1.5rem;
+    }
+}

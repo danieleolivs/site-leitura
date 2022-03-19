@@ -1,3 +1,6 @@
+body{
+    background: var(--background);
+}
 .details{
     background: var(--tarefas);
     border-radius: 5rem;
